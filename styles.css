@@ -1,0 +1,22 @@
+body {
+  background-image: url(sandpaper.png);
+  display: block;
+}
+
+.header {
+  color: #ac5e85;
+  padding-bottom: 20px;
+  text-align: center;
+  border-bottom: 2px solid black
+}
+
+.header-link {
+  margin: 0 20px;
+  font-size: 20px;
+}
+
+.title {
+  font-weight: bolder;
+}
+
+
